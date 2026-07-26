@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.sou8afonso_commits.twa",
-    "sha256_cert_fingerprints": ["26:6F:4C:A6:91:4D:62:3D:75:01:2A:7C:B3:44:9D:DE:F8:98:AC:3F:4C:57:1B:2C:6F:62:C2:B7:66:74:33:0F"]
+    "sha256_cert_fingerprints": [
+      "26:6F:4C:A6:91:4D:62:3D:75:01:2A:7C:B3:44:9D:DE:F8:98:AC:3F:4C:57:1B:2C:6F:62:C2:B7:66:74:33:0F",
+      "3B:40:46:68:19:E1:19:E0:43:6C:C2:6A:34:A8:2C:10:FE:D3:F0:D8:78:B3:B9:B6:3B:39:66:24:1F:B7:BC:1C"
+    ]
   }
 }]
